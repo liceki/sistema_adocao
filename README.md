@@ -1,6 +1,6 @@
 # Sistema de Adoção de Cães e Gatos – SISTADOG
 
-[KANBAN - TRELLO]([https://trello.com/invite/b/6830822e0b4743f25448de39/ATTI2ecce74dba7aeb51ad311d03c3542f279D60418C/tasks](https://trello.com/invite/b/683089c44de1f946474ad648/ATTI5665b3ec7dde3f8ac16b990cc1be0963B20C38EB/tasks))
+[KANBAN - TRELLO]([https://trello.com/invite/b/6830822e0b4743f25448de39/ATTI2ecce74dba7aeb51ad311d03c3542f279D60418C/tasks](https://trello.com/invite/b/683089c44de1f946474ad648/ATTI5665b3ec7dde3f8ac16b990cc1be0963B20C38EB/tasks)
  
 ## Descrição do Projeto
 O projeto consiste no desenvolvimento de um software, acessível via desktop e web, para gerenciar um local de adoção de cães e gatos. O sistema visa facilitar a gestão de cadastros de usuários interessados, dos animais disponíveis para adoção, bem como das solicitações e avaliações de adoção.
